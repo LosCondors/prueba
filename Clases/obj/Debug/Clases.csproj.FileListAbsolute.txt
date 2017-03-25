@@ -1,0 +1,40 @@
+C:\Users\13\Desktop\Sprint1\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint1\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint1\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint1\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint1\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint1\(1)PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint1\(1)PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint1\(1)PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint1\(1)PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint1\(1)PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\13\Desktop\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\13\Desktop\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\Enviar\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\Dell Admin\Desktop\ProyectoIT\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint2\ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\bin\Debug\Clases.pdb
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.dll
+C:\Users\13\Desktop\Sprint2\(0)ProyectoIT_Modulo Contactos(LUIS DIAZ)\Final\PantallasDesarrollo\Clases\obj\Debug\Clases.pdb
